@@ -1,0 +1,6 @@
+---
+title: "Tarea 3 IAM"
+author: "Santiago Franco, David Jaramillo"
+date: "11 de abril de 2021"
+output: pdf_document
+---
