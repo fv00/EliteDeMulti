@@ -4,3 +4,26 @@ author: "Santiago Franco, David Jaramillo"
 date: "11 de abril de 2021"
 output: pdf_document
 ---
+
+## Ejercicio 4.28
+Considere los datos dados en la tabla 1.5 construya un Q-Q plot para las medidas de radiación solar  y realice test de normalidad basados en el coeficiente de radiación $r_q$. Sea $\alpha=0.05$ y use la entrada correspondiente a n = 40 en la tabla 4.2.
+
+## Ejercicio 4.29
+
+Considere los datos de autos usados en el ejercicio 4.26:
+
+a. Cálcule las distancias estadísticas, $xd$ $j= 1,2,...,42$ dónde 
+## Ejercicio 4.30
+
+
+## Ejercicio 4.31
+
+Examine la normalidad marginal de las observaciones de las variables $X_1, X_2,...,X_5$ para los datos de la esclérosis multiple en la tabla 1.6. Trate la no-esclérosis multiple y la esclérosis multiple en grupos separados. Utilice las metodologías que considere apropiadas.
+
+## Ejercicio 4.34
+
+Analizar datos de la tabla 1.8 para normalidad marginal y bivariada.
+
+## Ejercicio 4.36
+
+Analizar datos de la tabla 1.9 para normalidad marginal y multivariada.
